@@ -6,4 +6,4 @@
 
 <p align="center">|</p>
 
-" you're and IDIOT "
+<p align="center">" you're and IDIOT "</p>
