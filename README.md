@@ -6,4 +6,4 @@
 
 <p align="center">|</p>
 
-<p align="center">" ⠀⠀you're ⠀⠀an ⠀⠀IDIOT ⠀⠀"</p>
+<p align="center">" ⠀⠀you're ⠀⠀an ⠀⠀𝙄𝘿𝙄𝙊𝙏 ⠀⠀"</p>
