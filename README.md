@@ -7,3 +7,5 @@
 <p align="center">|</p>
 
 <p align="center">" ⠀⠀you're ⠀⠀an ⠀⠀𝙄𝘿𝙄𝙊𝙏 .⠀⠀"</p>
+
+<p align="center"><img width="200" height="200" src="https://i.pinimg.com/736x/00/ec/44/00ec445d4cd50f96b66b4dcfec671bea.jpg" alt=""></p>
